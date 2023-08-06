@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "npx vitest --browser.name=chromium --browser.provider=playwright"
+  },
+  "devDependencies": {
+    "@vitest/browser": "^0.34.1",
+    "playwright": "^1.36.2",
+    "vite": "^4.4.8",
+    "vitest": "^0.34.1"
+  }
+}
